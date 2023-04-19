@@ -6,3 +6,6 @@ hola
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Campeón de Champions
+- [x] Campeón del mundo
+- [x] Mejor jugador de la historia
