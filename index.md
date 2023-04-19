@@ -9,3 +9,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Campeón de Champions
 - [x] Campeón del mundo
 - [x] Mejor jugador de la historia
+- [ ] El amor de mi vida :(
